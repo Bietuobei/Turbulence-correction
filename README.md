@@ -9,7 +9,7 @@ If you were interested in the CUT model, please check https://github.com/taesung
   year={2020}
 }
 
-#Get started
+# Get started
 The dependencies is shown in requirements.txt.
 #Test with your own dataset
 In this repository, we provide our trained model so anyone interested in this project could load it to test with your own dataset.
